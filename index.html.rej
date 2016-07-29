@@ -1,0 +1,11 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -17,7 +17,7 @@
+ 			<li>¿ø°İÀúÀå¼Ò</li>
+ 			<li>¿ø°İÀúÀå¼Ò</li>egoing
+ 			<li>¿ø°İÀúÀå¼Ò</li>lezche
+-			<li>conflict</li>egoing
++			<li>conflict</li>egoing.lezche
+ 		</ul>
+     </body>
+ </html>
+\ No newline at end of file
